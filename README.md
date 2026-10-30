@@ -5,9 +5,9 @@ Goal: prove you can use Git from the terminal by submitting one small `.txt` fil
 Your file must contain three lines:
 
 ```
-Name: SURNAME, Firstname
-Subject code: CS8
-Time: 10:15 AM
+Name: Reñes, Mikee
+Subject code: IT 5 - 1974
+Time: 3:18 Pm
 ```
 
 `Time` is the time you are writing it (check your clock). Your commit time is also recorded by Git, so type the real time.
